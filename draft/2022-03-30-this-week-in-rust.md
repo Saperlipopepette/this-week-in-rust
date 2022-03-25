@@ -26,6 +26,8 @@ If you find any errors in this week's issue, [please submit a PR](https://github
 
 ### Miscellaneous
 
+* [Solution of low-level confidential AI code in Rust](https://github.com/mithril-security/blindai)
+
 ## Crate of the Week
 
 This week's crate is [heph](https://docs.rs/heph), an event-driven, non-blocking I/O, share-nothing actor framework.
